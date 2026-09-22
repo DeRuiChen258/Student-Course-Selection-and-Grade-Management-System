@@ -1,0 +1,11 @@
+# 连接配置模板：复制为 config/db.properties 后按本机情况填写
+db.host=127.0.0.1
+db.port=3306
+db.name=edu_system
+db.user=edu_app
+db.password=在此填写 edu_app 的密码
+db.params=characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+
+app.page.size=10
+app.log.level=INFO
+
