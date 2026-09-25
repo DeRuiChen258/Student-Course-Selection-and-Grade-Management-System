@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+config/connection.json
+logs/
+dist/
+build/
+*.spec
+out/screenshots/

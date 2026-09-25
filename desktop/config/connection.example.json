@@ -1,0 +1,29 @@
+{
+  "active": "demo3307",
+  "profiles": {
+    "demo3307": {
+      "label": "演示库 3307（模拟数据集）",
+      "host": "127.0.0.1",
+      "port": 3307,
+      "database": "edu_system",
+      "user": "edu_app",
+      "password": "在此填写 edu_app 口令",
+      "charset": "utf8mb4",
+      "connect_timeout": 5,
+      "maintenance_user": "root",
+      "maintenance_password": ""
+    },
+    "system3306": {
+      "label": "系统实例 3306",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "database": "edu_system",
+      "user": "edu_app",
+      "password": "在此填写 edu_app 口令",
+      "charset": "utf8mb4",
+      "connect_timeout": 5,
+      "maintenance_user": "root",
+      "maintenance_password": ""
+    }
+  }
+}
